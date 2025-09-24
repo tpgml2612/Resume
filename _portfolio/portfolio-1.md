@@ -6,5 +6,4 @@ collection: portfolio
 
 Jeong, S., Choi, H., Youn, B.D., Son, H. "Statistical prior modeling with radius-uniform distribution for a correlation hyperparameter in bayesian calibration". Structural Multidisciplinary Optimization 66, 69 (2023). DOI: 10.1007/s00158-023-03520-0
 
-- Proposed a user-independent prior distribution for a specific hyperparameter in Bayesian
-calibration of model discrepancy and evaluated its performance in a case study
+- Proposed a user-independent prior distribution for a specific hyperparameter in Bayesian calibration of model discrepancy and evaluated its performance in a case study
