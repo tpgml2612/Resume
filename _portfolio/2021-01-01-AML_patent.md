@@ -1,6 +1,6 @@
 ---
 title: "Apparatus and method for 3D spatial alignment and 3D printing of liquid crystal polymers using permanent magnets"
-excerpt: "Korean Patent, Application number: 1020230067608<br/><img src='Resume/images/pat00002.tiff'>"
+excerpt: "Korean Patent, Application number: 1020230067608<br/><img src='images/pat00002.tiff'>"
 collection: portfolio
 external_link: "https://doi.org/10.8080/1020230067608" 
 ---
